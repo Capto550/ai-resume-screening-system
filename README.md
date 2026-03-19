@@ -5,7 +5,7 @@ Upload candidate resumes (PDF/TXT) and a job description (paste and/or upload). 
 ## Setup (Windows PowerShell)
 
 ```powershell
-cd "c:\Users\Nisha\OneDrive\Desktop\resume_screening"
+cd "c:\Users\USERNAME\OneDrive\Desktop\resume_screening"
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
